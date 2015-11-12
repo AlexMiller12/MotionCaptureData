@@ -1,0 +1,9 @@
+[Node Information]
+TYPE=SESSION
+Reference=
+PARENT=Patient 1
+NAME=Mitch Montaldo
+HASCHILD=FALSE
+TRIAL=Mitch Montaldo Cal 03
+[SESSION_INFO]
+CREATIONDATEANDTIME=2015,11,9,10,49,51

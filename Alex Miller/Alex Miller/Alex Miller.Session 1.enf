@@ -1,0 +1,9 @@
+[Node Information]
+TYPE=SESSION
+Reference=
+PARENT=Patient 1
+NAME=Alex Miller
+HASCHILD=FALSE
+TRIAL=Alex Miller Cal 02
+[SESSION_INFO]
+CREATIONDATEANDTIME=2015,11,9,10,11,35
